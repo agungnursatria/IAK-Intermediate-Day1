@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">weekone</string>
+
+    <!-- main -->
+    <string name="text">Text</string>
+    <string name="image_desc">Image Descripttion</string>
+
+    <!-- detail -->
+    <string name="detail_title">Title</string>
+    <string name="detail_text">Cuaca hari ini di Indonesia</string>
+</resources>
